@@ -1,8 +1,12 @@
 {
-  "name": "tanstack_start_ts",
+  "name": "pathwise",
   "private": true,
+  "version": "1.0.0",
   "sideEffects": false,
   "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
